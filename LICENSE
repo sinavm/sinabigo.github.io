@@ -1,0 +1,56 @@
+SiNAVM PROPRIETARY SOURCE CODE AND CONTENT LICENSE
+Version 1.0 — 8 November 2026
+
+Copyright (c) 2026 SiNAVM. All rights reserved.
+
+NOTICE
+This repository is not open source. No permission to copy, modify, publish,
+redistribute, sublicense, sell, or commercially exploit the Protected Materials
+is granted except by a separate written permission from the relevant rights
+holder.
+
+1. SCOPE AND OWNERSHIP
+"Protected Materials" means only original code, documentation, configuration,
+design, text, and other materials in this repository that are owned by SiNAVM
+or that SiNAVM is legally authorized to license. This notice does not claim
+ownership of third-party materials, trademarks, names, protocols, or projects.
+
+2. RESTRICTIONS
+To the extent permitted by applicable law, without prior written permission
+from an authorized SiNAVM rights holder, you may not:
+(a) reproduce, copy, mirror, or republish Protected Materials, in whole or
+    substantial part;
+(b) modify, adapt, translate, or create derivative works from them;
+(c) distribute, publish, sublicense, sell, rent, or make them available to
+    another person;
+(d) incorporate them into a product or service, or use them commercially;
+(e) remove or alter copyright, attribution, or proprietary notices; or
+(f) use SiNAVM names, logos, or marks to imply endorsement or affiliation.
+
+3. ACCESS
+Public availability or access to this repository is for viewing and evaluation
+only. It does not grant permission to reuse, deploy, redistribute, or otherwise
+exploit Protected Materials.
+
+4. THIRD-PARTY MATERIALS
+Any material owned by another person, identified as third-party, or governed
+by a separate license remains subject to its own license and terms. This
+notice does not replace, narrow, or override any third-party license. If a
+file or component carries its own license or notice, that license or notice
+controls that component.
+
+5. NO WARRANTY
+To the maximum extent permitted by law, Protected Materials are provided "AS
+IS", without warranties or conditions of any kind. Nothing in this notice
+excludes liability that cannot lawfully be excluded.
+
+6. PERMISSION
+Permission requests must be made to the SiNAVM repository owner through the
+contact details published on the owner's GitHub profile. Permission is valid
+only when granted in writing by an authorized rights holder.
+
+7. RIGHTS RESERVED
+All rights not expressly granted in a separate written agreement are reserved.
+This notice applies only to rights SiNAVM actually owns or is authorized to
+license and does not revoke permissions previously granted under other
+licenses or override mandatory law.
